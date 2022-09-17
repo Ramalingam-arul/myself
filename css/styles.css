@@ -1,0 +1,172 @@
+/* TAGS CONTAINER(LESS PRIOR) */
+
+body{
+    color: #40514e;
+    margin: 0px;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+} 
+
+h1{
+    margin:0 auto 0 auto;
+    font-family: 'sacramento',cursive;
+    font-size: 4.625rem;
+    color: deeppink;
+
+}
+
+h2{
+    font-family: 'montserrat',sans-serif;
+    font-size: 1.8rem;
+    font-weight: normal;
+    color: deeppink;
+    padding-bottom: 10px;
+}
+h3{
+    font-family: 'montserrat',sans-serif;
+    color: brown;
+}
+hr{
+    border: dotted black 6px;
+    border-bottom: 0px;
+    width: 4%;
+    margin: 100px auto;
+}
+p
+{
+    line-height: 2;
+}
+a{
+    color: deeppink;
+    font-family: 'montserrat',sans-serif;
+    margin: 10px 20px;
+    text-decoration: none;
+}
+
+a:hover
+{
+    color:violet;
+}
+
+
+/* CLASS CONTAINER(MEDIUM PRIOR) */
+
+.bottom-container{
+    background-color: pink;
+    padding: 50px 0 20px;
+}
+.btn {
+    background: pink;
+    background-image: -webkit-linear-gradient(top, pink, deeppink);
+    background-image: -moz-linear-gradient(top, pink, deeppink);
+    background-image: -ms-linear-gradient(top, pink, deeppink);
+    background-image: -o-linear-gradient(top, pink, deeppink);
+    background-image: linear-gradient(to bottom, pink, deeppink);
+    -webkit-border-radius: 28;
+    -moz-border-radius: 28;
+    border-radius: 28px;
+    font-family: 'montserrat',sans-serif;
+    color: black;
+    font-size: 22px;
+    padding: 10px 20px 10px 22px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: violet;
+    background-image: -webkit-linear-gradient(top, violet, violet);
+    background-image: -moz-linear-gradient(top, violet, violet);
+    background-image: -ms-linear-gradient(top, violet, violet);
+    background-image: -o-linear-gradient(top, violet, violet);
+    background-image: linear-gradient(to bottom, violet, violet);
+    text-decoration: none;
+  }
+.codechef_img
+{
+    width: 20%;
+    float: left;
+    margin-right: 30px;
+}
+
+.contactmsg{
+    width: 40%;
+    margin: 40px auto 60px;
+}
+.copyright{
+    color: deeppink;
+    font-size: 0.75rem;
+    padding: 20px 0;
+}
+.dev
+{
+    text-decoration: underline;
+}
+
+.lang_known_img
+{
+    width: 20%;
+    float: right;
+    margin-left: 30px;
+}
+
+.intro
+{
+    width: 30%;
+    margin: auto;
+}
+.head
+{
+    margin-top: 100px;
+}
+.mountain
+{
+    width: 30%;
+    height: 2%;
+}
+
+
+.middle-container
+{
+   margin: 100px 0;
+}
+
+.my_img{
+    height: 15%;
+    width: 15%;
+    padding-top: 2%;
+}
+
+.skill-row
+{
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+}
+
+.top_container
+{
+    position: relative;
+    background-color: lightpink;
+    padding-top: 100px ;
+}
+
+
+/*
+.bottom-cloud
+{
+    position: absolute;
+    left: 300px;
+    bottom: 300px;
+    height: 15%;
+    width: 10%;
+}*/
+
+/*
+.top-cloud
+{
+    position: absolute;
+    right: 300px;
+    top: 50px;
+    height: 15%;
+    width: 10%;
+}*/
